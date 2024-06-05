@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @deepanshuteotia0204
 - 👀 I’m interested in Coding
+- 💻 Frontend : HTML,CSS and JavaScript
 - 🌱 I’m currently learning Mern Stack
 - 📫 How to reach me @_deepanshu_teotia_
 
